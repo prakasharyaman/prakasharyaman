@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prakasharyaman
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning google firebase
-- 💞️ I’m looking to collaborate on flutter
+- 👀 I’m interested in developing flutter applications
+- 🌱 I’m currently mastering google cloud services
+- 💞️ I’m looking to collaborate on flutter 
 - 📫 How to reach me email:rishu.m12@gmail.com
 
 <!---
