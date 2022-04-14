@@ -4,7 +4,7 @@
 prakasharyaman/prakasharyaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" width="29px"> Hi there!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gifhttps://c.tenor.com/g9bkJfFtovMAAAAC/dog.gif" width="24px">
 
 <p>
   <em>
@@ -41,4 +41,4 @@ I am an artist <br>
 <br><br><br><br>
 
 <img src="https://media1.giphy.com/media/gOkawaguYNiSI/200.gif">
-## 👍
+
