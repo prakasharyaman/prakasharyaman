@@ -4,7 +4,7 @@
 prakasharyaman/prakasharyaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### <img src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" width="29px"> Hi there!&nbsp;<img src="https://c.tenor.com/g9bkJfFtovMAAAAC/dog.gif" width="24px">
+### <img src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" width="64px"> Hi there!&nbsp;<img src="https://c.tenor.com/g9bkJfFtovMAAAAC/dog.gif" width="64px">
 
 <p>
   <em>
