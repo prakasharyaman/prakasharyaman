@@ -19,10 +19,15 @@ I am an artist <br>
 
 <br>
 - 👋 Hi, I’m @prakasharyaman
+- <br>
 - 👀 I’m interested in developing flutter and python applications
+- - <br>
 - 🌱 I’m currently mastering google cloud services
+- - <br>
 - 💞️ I’m looking to collaborate on apps 
+- - <br>
 - 📫 How to reach me email:rishu.m12@gmail.com
+- - <br>
 
 
 <br>
