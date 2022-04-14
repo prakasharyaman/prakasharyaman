@@ -40,4 +40,5 @@ I am an artist <br>
 
 <br><br><br><br>
 
-<!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
+<img src="https://media1.giphy.com/media/gOkawaguYNiSI/200.gif">
+#👍
