@@ -15,7 +15,8 @@ I am an artist <br>
 </p>
 
 <br>
-
+ <img align="left" alt="Aryaman Prakash | Gmail" width="26px" src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg](https://raw.githubusercontent.com/prakasharyaman/prakasharyaman.github.io/main/assets/favicon.ico)" />
+### [CheckOut my website]("https://prakasharyaman.github.io/")
 ![Aryamans's github stats](https://github-readme-stats.vercel.app/api?username=prakasharyaman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br>
@@ -27,7 +28,7 @@ I am an artist <br>
  <br>
 - 💞️ I’m looking to collaborate on apps 
  <br>
-- 📫 How to reach me email: rishu.m12@gmail.com
+- 📫 How to reach me email: prakasharyaman@outlook.com
  <br>
 
 
@@ -35,7 +36,7 @@ I am an artist <br>
 <br>
 
 
-  <a href="mailto:rishu.m12@gmail.com">
+  <a href="mailto:prakasharyaman@outlook.com">
     <img align="left" alt="Aryaman Prakash | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
