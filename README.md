@@ -15,7 +15,7 @@ I am an artist <br>
 </p>
 
 <br>
-<link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/prakasharyaman/prakasharyaman.github.io/main/assets/favicon.ico" />
+<img rel="icon"  src="https://raw.githubusercontent.com/prakasharyaman/prakasharyaman.github.io/main/assets/favicon.ico" />
 
 ### [Checkout my website](https://prakasharyaman.github.io/)
 ![Aryamans's github stats](https://github-readme-stats.vercel.app/api?username=prakasharyaman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
