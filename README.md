@@ -34,11 +34,6 @@ I am an artist who loves to create.<br>
 - 📫 How to reach me email: prakasharyaman@outlook.com
  <br>
 
-
-<br>
-<br>
-
-
   <a href="mailto:prakasharyaman@outlook.com">
     <img align="left" alt="Aryaman Prakash | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
