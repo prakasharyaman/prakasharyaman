@@ -21,7 +21,7 @@ I am an artist who loves to create.<br>
 
 ![Aryamans's github stats](https://github-readme-stats.vercel.app/api?username=prakasharyaman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakasharyaman)](https://github.com/prakasharyaman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakasharyaman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/prakasharyaman/github-readme-stats)
 <br>
 - 👋 Hi, I’m @prakasharyaman
  <br>
