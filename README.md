@@ -16,14 +16,7 @@ I am an artist who loves to create.<br>
 
 <br>
 
-
-
-
-
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakasharyaman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/prakasharyaman/github-readme-stats)
-<br>
-- 👋 Hi, I’m @prakasharyaman
+- 👋 Hi, I’m @prakash
  <br>
 - 👀 I’m interested in developing flutter and python applications
  <br>
@@ -31,12 +24,10 @@ I am an artist who loves to create.<br>
  <br>
 - 💞️ I’m looking to collaborate on apps 
  <br>
-- 📫 How to reach me email: prakasharyaman@outlook.com
+- 📫 How to reach me email: Create an issue anywhere in my repos
  <br>
  <br>
-  <a href="mailto:prakasharyaman@outlook.com">
-    <img align="left" alt="Aryaman Prakash | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+
 
 <br><br><br><br>
 
