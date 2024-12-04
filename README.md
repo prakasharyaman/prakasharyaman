@@ -24,7 +24,7 @@ I am an artist who loves to create.<br>
  <br>
 - 💞️ I’m looking to collaborate on apps 
  <br>
-- 📫 How to reach me email: Create an issue anywhere in my repos
+- 📫 How to reach me: Create an issue anywhere in my repos
  <br>
  <br>
 
